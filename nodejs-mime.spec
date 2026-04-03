@@ -2,7 +2,7 @@
 Summary:	A comprehensive library for mime-type mapping
 Name:		nodejs-%{pkg}
 Version:	1.2.11
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
